@@ -2,14 +2,15 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riasatmehmood&label=Profile%20views&color=0e75b6&style=flat" alt="riasatmehmood" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **an ERP project in the Angular framework, aiming to streamline business operations and enhance user experiences.**
 
-- 🌱 I’m currently learning **Backend technologies to become full stack developer**
+- 🌱 I’m currently learning **Backend technologies to become full stack developer.**
 
-- 👯 I’m looking to collaborate on **Angular projects**
+- 👯 I’m looking to collaborate on **Angular projects.**
 
-- 💬 Ask me about **Angular , HTML, CSS , Javascript, Typescript and FrontEnd development.**
+- 💬 Ask me about **Angular, HTML, CSS, Javascript, Typescript, and FrontEnd development.**
 
 - 📫 How to reach me **riasatali12436@gmail.com**
 
